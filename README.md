@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, sou Thomas Mathias Etges 👋
 
 - 🔭 Atualmente estou trabalhando na Imply como estagiário dos novos talentos 💫
 - 🌱 Estou aprendendo diveeersos assuntos sobre programação
