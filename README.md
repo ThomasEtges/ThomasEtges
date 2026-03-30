@@ -1,7 +1,7 @@
 ## Olá, sou Thomas Mathias Etges 👋
 
-- 🔭 Atualmente estou trabalhando na Imply como estagiário dos novos talentos 💫
-- 🌱 Estou aprendendo diveeersos assuntos sobre programação
+- 🔭 Atualmente estou trabalhando na Imply como Trainee Programador 💫
+- 💻 Fazendo faculdade de engenharia da computação 👨‍💻
 - 💬 Pode me perguntar como se resolve um cubo mágico 🟦
 - 📫 Se quiser me chamar -> thomas.etges.10@gmail.com
 
